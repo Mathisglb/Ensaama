@@ -5,7 +5,7 @@ Auj : 16 septembre 2026
 * [demo aframe](./test.html)
 * [l'équipe](https://www.lequipe.fr/)
 
-### 2_python
+### 2_PYTHON
 
 
 ### 3_teachable machine
