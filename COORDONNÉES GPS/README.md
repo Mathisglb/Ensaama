@@ -1,5 +1,6 @@
-## EXERCICE DONNÉES GPS D'APRÈS DONNÉES AFRAME
+# 📍 Coordonnées GPS
 
-### 1_python
-* [code](./CODEgps.py)
-* [photo](./photo.jpg)
+Ce projet permet de récupérer les coordonnées GPS d'une photo.
+
+- 🖼️ [Photo](./photo.jpg)
+- 🐍 [Code Python](./coordonnees_gps.py)
